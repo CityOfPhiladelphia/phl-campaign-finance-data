@@ -1,4 +1,4 @@
-# City of Philadelphia Campaign Finance Data
+# Philadelphia Campaign Finance Data
 
 ## Source
 
