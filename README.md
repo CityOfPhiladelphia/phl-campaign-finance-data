@@ -6,4 +6,4 @@ Philadelphia Departent of Records - https://phila-records.com/campaign-finance/w
 
 ## Data
 
-Campaign finance data from the City of Philadelphia for the period 2005 - March, 2013. 
+Campaign finance data from the City of Philadelphia for the period 2005 - 2012. 
