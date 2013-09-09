@@ -10,9 +10,9 @@ Campaign finance data from the City of Philadelphia for the period 2005 - 2012.
 
 ## Description of fields
 
-* _Filer Name:_  The person or committee filing the report
+* _Filer Name:_  The person or committee filing the report.
 * _Year:_  The year the report is in.
-* _Cycle:_  The cycle the report covers (there are seven cycles, plus 24-hour reports in the two weeks leading up to the primary election listed as cycle 8, and 24-hour reports in the two weeks leading up to the general election listed as cycle 9)
+* _Cycle:_  The cycle the report covers (there are seven cycles, plus 24-hour reports in the two weeks leading up to the primary election listed as cycle 8, and 24-hour reports in the two weeks leading up to the general election listed as cycle 9).
 * _DocType:_  The section of the campaign finance form where the entry is listed.  There are four schedules on the form:  Contributions and Receipts, In-Kind Contributions, Expenditures, and Unpaid Debt.
 * _Entity Name:_ (+ AddressLine 1, AddressLine2, City, State, and Zip) The entity is whomever is on the other side of the transaction from the filer, whether it be contribution, expenditure, or debt.  The candidate or committee is also required to collect the entity’s address.
 * _Occupation:_  The occupation of the contributor.
