@@ -8,6 +8,8 @@ Philadelphia Departent of Records - https://phila-records.com/campaign-finance/w
 
 Campaign finance data from the City of Philadelphia for the period 2005 - 2012. 
 
+Campaign finance data for the entire State of Pennsylvania can be searched at https://www.campaignfinanceonline.state.pa.us/pages/CFReportSearch.aspx or downloaded at http://dos.state.pa.us/portal/server.pt/community/full_campaign_finance_export/21644.
+
 ## Description of fields
 
 * _Filer Name:_  The person or committee filing the report.
